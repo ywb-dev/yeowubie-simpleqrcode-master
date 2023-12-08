@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "qr-create": "QR ジェネレータ",
+    "url-create": "URL 短くする",
+    "donate": "スポンサー"
+  },
+  "content": {
+    "qr-create-title": "QR ジェネレータ",
+    "qr-create-input-placeholder": "URLを入力してください",
+    "qr-download-button-text": "QR ダウンロード",
+    "url-create-title": "URL 短くする",
+    "url-create-input-placeholder": "URLを入力してください",
+    "reset-button-text": "リセット",
+    "copy-button-text": "コピー"
+  },
+  "system":{
+    "qr-idle-text": "URLを入力してQRコードを生成してください",
+    "qr-creating-text": "QRコードを生成中です...",
+    "qr-success-text": "QRコードが生成されました!",
+    "qr-error-text": "QRコード生成に失敗しました! この問題が引き続き発生する場合は、管理者にお問い合わせください。",
+    "url-idle-text": "URLを入力して長いURLを短くする",
+    "url-creating-text": " 短縮URLを作成中です...",
+    "url-success-text": " 短縮URLが生成されました!",
+    "url-error-text": " 短縮URLの作成に失敗しました! この問題が引き続き発生する場合は、管理者にお問い合わせください。",
+
+    "donate-text01":"ご支援ありがとうございました.",
+    "donate-text02":"私たちは、より良い無料サービスを開発し配布するために寄付を使用しています."
+
+
+  }
+}

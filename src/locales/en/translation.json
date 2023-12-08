@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "qr-create": "Qr Generator",
+    "url-create": "URL Shortener",
+    "donate": "Buy me a coffee"
+  },
+  "content": {
+    "qr-create-title": "QR Code Generator",
+    "qr-create-input-placeholder": "Enter your URL here",
+    "qr-download-button-text": "QR DOWNLOAD",
+    "url-create-title": "URL Shortener",
+    "url-create-input-placeholder": "Enter your URL here",
+    "reset-button-text": "RESET",
+    "copy-button-text": "COPY IT"
+  },
+
+  "system":{
+    "qr-idle-text": "Enter your URL and click the button to generate a QR code.",
+    "qr-creating-text": "Generating QR code...",
+    "qr-success-text": "QR code created successfully",
+    "qr-error-text": "Error generating QR code!",
+    "url-idle-text": "Shorten long URLs",
+    "url-creating-text": "Generating short URL...",
+    "url-success-text": "Short URL generated!",
+    "url-error-text": "Error generating short URL!",
+
+    "donate-text01":"We sincerely thank you for your support.",
+    "donate-text02":" We use all donations to develop and distribute better free services."
+
+
+  }
+}
